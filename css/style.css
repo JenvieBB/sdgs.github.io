@@ -242,11 +242,11 @@
     line-height: 1.3rem;
     background: var(--bs-secondary);
     position: absolute;
-    width: 100%;
+    width: 68%;
     top: 50%;
     transform: translateY(-50%);
     height: 1px;
-    right: 20;
+    right: 0;
     opacity: 0.2;
 }
 /*** Top News End ***/
